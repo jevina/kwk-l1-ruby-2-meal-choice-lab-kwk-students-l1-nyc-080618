@@ -9,7 +9,7 @@ def brkfst(food="Frosted Flakes")
   "Morning is the best time for #{food}!"
 end
 
-brkfst
+puts brkfst
 brkfst("waffles")
 
 
