@@ -10,7 +10,7 @@ def brkfst(food="Frosted Flakes")
 end
 
 puts brkfst
-brkfst("waffles")
+puts brkfst("waffles")
 
 
 
