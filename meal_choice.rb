@@ -12,8 +12,19 @@ end
 puts brkfst
 puts brkfst("waffles")
 
+def lunch(food="grilled cheese")
+  "Lunch is the best time for #{food}!"
+end
 
+puts lunch
+puts lunch("pasta")
 
+def dinner(food="salmon")
+  "Dinner is the best time for #{food}!"
+end
+
+puts dinner
+puts dinner(steak)
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
